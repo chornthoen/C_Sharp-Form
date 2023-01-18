@@ -1,0 +1,11 @@
+C:\Users\Sc-Store\VisualStudioProjects\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\Sc-Store\VisualStudioProjects\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\Sc-Store\VisualStudioProjects\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\Sc-Store\VisualStudioProjects\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.AssemblyReference.cache
+C:\Users\Sc-Store\VisualStudioProjects\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sc-Store\VisualStudioProjects\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.CalculateLetterGrade.resources
+C:\Users\Sc-Store\VisualStudioProjects\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\Sc-Store\VisualStudioProjects\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\Sc-Store\VisualStudioProjects\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\Sc-Store\VisualStudioProjects\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\Sc-Store\VisualStudioProjects\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
